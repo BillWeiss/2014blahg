@@ -10,15 +10,11 @@ footer: true
 Hi there.  I'm Bill Weiss, a sysadmin and manager of admins.  You can find
 me lots of places other than this page:
 
- * On (ServerFault as BillWeiss)[http://serverfault.com/users/4117/bill-weiss]
- * On (LiveJournal as Houdini-CS)[http://houdini-cs.livejournal.com/]  --
-   that's a personal blog, not a professional one
- * At (Backstop Solutions Group)[http://www.backstopsolutions.com/], my
-   day job.  "bweiss" at that domain will get to me, as well as lots of
-   administrative addresses
- * On (LinkedIn)[http://www.linkedin.com/pub/bill-weiss/33/206/107]
- * Via email lots of places, but preferably "bv" at the domain this blog
-   is on
+ * On [ServerFault as BillWeiss](http://serverfault.com/users/4117/bill-weiss)
+ * At [Backstop Solutions Group](http://www.backstopsolutions.com/), my day job.  "bweiss" at that domain will get to me, as well as lots of administrative addresses
+ * On [LinkedIn](http://www.linkedin.com/pub/bill-weiss/33/206/107)
+ * On[Twitter as BillWeiss](http://twitter.com/BillWeiss/)
+ * Via email lots of places, but preferably "bv" at the domain this blog is on
  * In Chicago, IL, where I live.  Sorry, no Google Maps link here :)
 
 Things I'm interested in, and thus you might see written about here:
@@ -27,4 +23,10 @@ Things I'm interested in, and thus you might see written about here:
  * Automation of the same
  * Management of the same, and the people who do them
  * Security of networks, systems, people... whatever
+
+Non-computer things I'm interested in, which I might also write about:
+
+ * Coffee -- I have an [AeroPress](http://aerobie.com/products/aeropress.htm) and a [Yama 5c syphon](http://www.sweetmarias.com/sweetmarias/coffee-brewers/vacuum-brewers/yama-tabletop-brewer-with-stand-lamp.html) at home, and use a [Porlex hand grinder](http://www.sweetmarias.com/sweetmarias/porlex-tall-ceramic-hand-mill.html), mostly with [Intelligentsia](http://www.intelligentsiacoffee.com/) beans.
+ * Cooking
+ * Music
 
