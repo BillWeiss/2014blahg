@@ -1,0 +1,8 @@
+{% if site.serverfault_user_name %}
+<section>
+  <h1>Server Fault</h1>
+  <a href="http://serverfault.com/users/{{site.serverfault_user_id}}/{{site.serverfault_user_name}}">
+  <img src="http://serverfault.com/users/flair/{{site.serverfault_user_id}}.png" width="208" height="58" alt="profile for {{ site.serverfault_user_name }} at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for {{ site.serverfault_user_name }} at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  </a>
+</section>
+{% endif %}
