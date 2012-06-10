@@ -27,7 +27,7 @@ Things I'm interested in, and thus you might see written about here:
 
 Non-computer things I'm interested in, which I might also write about:
 
- * Coffee -- I have an [AeroPress](http://aerobie.com/products/aeropress.htm) and a [Yama 5c syphon](http://www.sweetmarias.com/sweetmarias/coffee-brewers/vacuum-brewers/yama-tabletop-brewer-with-stand-lamp.html) at home, and use a [Porlex hand grinder](http://www.sweetmarias.com/sweetmarias/porlex-tall-ceramic-hand-mill.html), mostly with [Intelligentsia](http://www.intelligentsiacoffee.com/) beans.
+ * Coffee -- I love me some coffee.  I currently use an [AeroPress](http://aerobie.com/products/aeropress.htm) and a [Yama 5 cup syphon](http://www.sweetmarias.com/sweetmarias/coffee-brewers/vacuum-brewers/yama-tabletop-brewer-with-stand-lamp.html) at home, and use a [Porlex hand grinder](http://www.sweetmarias.com/sweetmarias/porlex-tall-ceramic-hand-mill.html), mostly with [Intelligentsia](http://www.intelligentsiacoffee.com/) beans.  None of those links are affiliate links, in case you're wondering :)
  * Cooking
  * Music
 
