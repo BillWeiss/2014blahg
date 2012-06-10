@@ -1,0 +1,71 @@
+---
+layout: post
+title: "Hi there"
+date: 2012-06-09 21:10
+comments: true
+categories:
+- HelloWorld
+- VCS
+- Git
+- Subversion
+- Octopress
+---
+
+I've got to admit, git makes me feel old.  I started on CVS and RCS, and
+made the transition to Subversion (I feel) fairly well.  I'm not a master
+of any of them, but I can do the basics that I need:
+
+ * "I think this version is good, keep it"
+ * "Hey, what's the latest version of this thing?"
+ * "Crap, that didn't work, go back"
+ * "Who broke this thing?"
+
+... Yep, that's it.  I can certainly work with branches when needed, but I
+don't do it often enough to remember it off the top of my head; I pretty
+much always have to go look it up.  That'll change soon because of
+$DAYJOB: we keep our Puppet configuration in Subversion, and I think the
+day where we need branches in there is coming.  Yay?
+
+<!--more-->
+
+Anyway, that being said, I thought I could do the same stuff in Git, up
+until when I started using Octopress here.  However, having followed
+[TFM](http://octopress.org/docs/setup/) in how to set it up, I almost
+immediately hit an error:
+
+```
+houdini@linode ~/projects/octopress (source*) % git pull
+Already up-to-date.
+houdini@linode ~/projects/octopress (source*) % git push
+To git@github.com:BillWeiss/billweiss.github.com.git
+ ! [rejected]        source -> source (non-fast-forward)
+ error: failed to push some refs to
+ 'git@github.com:BillWeiss/billweiss.github.com.git'
+ hint: Updates were rejected because the tip of your current branch is
+ behind
+ hint: its remote counterpart. Merge the remote changes (e.g. 'git pull')
+ hint: before pushing again.
+ hint: See the 'Note about fast-forwards' in 'git push --help' for
+ details.
+```
+
+... Well, hell.  I don't know what to do with that.  That's on trying to
+commit my change to the site \_config.yml as described in [TFM part 3](http://octopress.org/docs/configuring/).  
+Hmf.  We'll see if this post works at all.
+
+Anyway, the note about fast-forwards (as described in that error message)
+made no sense to me.  
+
+...
+
+Of course, in ranting about this and making sure I'd done the JFGI
+required to not be mocked (ha, right) I found
+(this helpful blog entry)[http://rip747.wordpress.com/2009/04/20/git-push-rejected-non-fast-forward/],
+which lead me to issue "git pull origin source", which told me there was
+a conflict in my \_config.yml and told me to fix it.  Lo and behold, I'm
+good again.
+
+Like I said, it makes me feel old :)
+
+$DAYJOB is working on some Github stuff these days, so I'll be forced to
+figure it out; I suspect that Octopress here will do the same.
