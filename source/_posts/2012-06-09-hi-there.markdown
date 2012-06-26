@@ -46,7 +46,7 @@ Anyway, the note about fast-forwards (as described in that error message) made n
 
 ...
 
-Of course, in ranting about this and making sure I'd done the JFGI required to not be mocked (ha, right) I found (this helpful blog entry)[http://rip747.wordpress.com/2009/04/20/git-push-rejected-non-fast-forward/], which lead me to issue "git pull origin source", which told me there was a conflict in my \_config.yml and told me to fix it.  Lo and behold, I'm good again.
+Of course, in ranting about this and making sure I'd done the JFGI required to not be mocked (ha, right) I found [this helpful blog entry](http://rip747.wordpress.com/2009/04/20/git-push-rejected-non-fast-forward/), which lead me to issue "git pull origin source", which told me there was a conflict in my \_config.yml and told me to fix it.  Lo and behold, I'm good again.
 
 Like I said, it makes me feel old :)
 
