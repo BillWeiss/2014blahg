@@ -32,12 +32,10 @@ To git@github.com:BillWeiss/billweiss.github.com.git
  ! [rejected]        source -> source (non-fast-forward)
  error: failed to push some refs to
  'git@github.com:BillWeiss/billweiss.github.com.git'
- hint: Updates were rejected because the tip of your current branch is
- behind
+ hint: Updates were rejected because the tip of your current branch is behind
  hint: its remote counterpart. Merge the remote changes (e.g. 'git pull')
  hint: before pushing again.
- hint: See the 'Note about fast-forwards' in 'git push --help' for
- details.
+ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ```
 
 ... Well, hell.  I don't know what to do with that.  That's on trying to commit my change to the site \_config.yml as described in [TFM part 3](http://octopress.org/docs/configuring/).  Hmf.  We'll see if this post works at all.
